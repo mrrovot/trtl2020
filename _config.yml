@@ -31,5 +31,6 @@ language_names:
   #   short: dev
   #   full: Development
 
+
 # couldn't make this work 
-exclude_from_localizations: ["assets"]
+# exclude_from_localizations: ["assets"]
